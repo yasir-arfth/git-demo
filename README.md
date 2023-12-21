@@ -1,3 +1,3 @@
 # git-demo
 This is my demo Git Repository.<br>
-Author - Yasir
+Author - Yasir Arafath
